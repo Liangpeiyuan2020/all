@@ -1,0 +1,24 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "gwtContent",
+          "pathName": "pages/gwtContent/gwtContent",
+          "query": "id=454353",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

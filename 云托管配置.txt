@@ -1,0 +1,7 @@
+python -m pip install beautifulsoup4
+python -m pip install PyExecJS
+python -m pip install requests
+
+apt update
+apt install nodejs npm
+nodejs --version
